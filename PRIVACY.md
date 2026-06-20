@@ -28,4 +28,4 @@ for all file-to-file conversions.
 ## Contact
 
 Questions about this policy: open an issue at
-[github.com/majedjun17/PDF-Editor](https://github.com/majedjun17/PDF-Editor/issues).
+[github.com/majedjun17/PDF-Editor](https://github.com/majedjun17/File-Converter/issues).
